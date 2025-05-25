@@ -1,0 +1,6 @@
+Player Name                        Score
+Hanzlah Hassan                       340
+Abdullah                             320
+Awais Ali                            300
+Usman ali                             50
+Bilal                                 100                                     
